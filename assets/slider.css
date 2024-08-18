@@ -1,0 +1,22 @@
+/* assets/slider.css */
+
+/* Track (background of the slider) */
+.slider-style .rc-slider-track {
+    background-color: #FF5A5F;  /* Change this to your desired fill color */
+}
+
+/* Handle (the draggable part of the slider) */
+.slider-style .rc-slider-handle {
+    border-color: #FF5A5F;  /* Change this to match the fill color */
+}
+
+/* Dots on the slider */
+.slider-style .rc-slider-dot {
+    border-color: #F5F5F5;  /* Change this to your desired dot color */
+}
+
+/* Dots on the passed part of the slider */
+.slider-style .rc-slider-dot-active {
+    background-color: #FF5A5F;  /* Change this to match the fill color */
+    border-color: #FF5A5F;  /* Change this to your desired dot color */
+}
