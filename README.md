@@ -21,4 +21,5 @@ dash_bootstrap_components==1.6.0
 5- Install the requirements file on command prompt (pip install -r requirements.txt)
 6- Run the app file.
 7- You can run the dashboard using the local address that is the output of the code. (http://127.0.0.1:8050/)
+8- Enjoy the dashboar. Don't forget to double click on neighbourhoods!!!
 
