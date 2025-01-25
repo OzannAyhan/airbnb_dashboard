@@ -1,4 +1,4 @@
-# Airbnb Price Prediction and Forecasting Application
+# Interactive Airbnb Dashboarh
 
 ## Summary
 This Python application is designed to analyze and forecast Airbnb prices across different locations in various cities. By using historical Airbnb data, the application predicts price changes based on location, providing valuable insights for hosts and travelers alike.
