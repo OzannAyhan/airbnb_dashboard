@@ -1,7 +1,7 @@
 # Airbnb Price Prediction and Forecasting Application
 
 ## Summary
-This Python application is designed to analyze and forecast Airbnb prices across different locations in various cities. By using historical Airbnb data, the application predicts price changes based on location, providing valuable insights for hosts and travelers alike. The application is Dockerized for ease of deployment and has been deployed on Heroku for accessibility.
+This Python application is designed to analyze and forecast Airbnb prices across different locations in various cities. By using historical Airbnb data, the application predicts price changes based on location, providing valuable insights for hosts and travelers alike.
 
 ## Features
 - *Data Analysis*: Analyzes Airbnb price trends based on location.
@@ -29,5 +29,5 @@ dash_bootstrap_components==1.6.0
 5. Install the requirements file on command prompt (pip install -r requirements.txt)
 6. Run the app file.
 7. You can run the dashboard using the local address that is the output of the code. (http://127.0.0.1:8050/)
-8. Enjoy the dashboar. Don't forget to double click on neighbourhoods!!!
+8. Enjoy the dashboard. Don't forget to double click on neighbourhoods!!!
 
