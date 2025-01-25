@@ -21,13 +21,8 @@ This Python application is designed to analyze airbnb metrics and forecast price
 1. Download Git Large File Storage from https://git-lfs.com/
 2. Install lfs from command prompt (git lfs install )
 3. Clone the dashboard file to your local
-4. Update the requirements as follows
-pandas==2.2.2
-plotly==5.23.0
-dash==2.16.1
-dash_bootstrap_components==1.6.0
-5. Install the requirements file on command prompt (pip install -r requirements.txt)
-6. Run the app file.
-7. You can run the dashboard using the local address that is the output of the code. (http://127.0.0.1:8050/)
-8. Enjoy the dashboard. Don't forget to double click on neighbourhoods!!!
+4. Install the requirements file on command prompt (pip install -r requirements.txt)
+5. Run the app file.
+6. You can run the dashboard using the local address that is the output of the code. (http://127.0.0.1:8050/)
+7. Enjoy the dashboard. Don't forget to double click on neighbourhoods!!!
 
