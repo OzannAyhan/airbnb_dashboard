@@ -5,14 +5,15 @@ This Python application is designed to analyze airbnb metrics and forecast price
 
 ## Features
 - *Data Analysis*: Analyzes Airbnb price trends based on location.
-- *Interactive Visualizations*: Provides visual insights into pricing trends.
+
 - *Forecasting*: Predicts future prices using advanced machine learning models.
-- *NLP Metrics*
 - Interactive Map
 - City Selection Dropdown
 - Slider
 - Pop-up Window
 - Neighborhood  Dropdown
+    - *NLP Metrics*
+    - *Interactive Visualizations*: Provides visual insights into pricing trends.
 
 
 
