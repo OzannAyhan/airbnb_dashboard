@@ -1,4 +1,4 @@
-# Interactive Airbnb Dashboarh
+# Interactive Airbnb Dashboard
 
 ## Summary
 This Python application is designed to analyze airbnb metrics and forecast prices  across different locations in various cities. By using historical Airbnb data, the application predicts price changes based on location, providing valuable insights for hosts and travelers alike.
